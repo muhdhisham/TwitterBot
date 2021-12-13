@@ -1,0 +1,17 @@
+asgiref==3.4.1
+Django==4.0
+psycopg2==2.9.2
+sqlparse==0.4.2
+tzdata==2021.5
+
+certifi
+chardet==4.0.0
+idna==2.10
+oauthlib==3.1.1
+Pysocks==1.7.1
+requests==2.25.1
+requests-oauthlib==1.3.0
+six==1.16.0
+tweepy==3.10.0
+typing-extensions==3.10.0.0
+
